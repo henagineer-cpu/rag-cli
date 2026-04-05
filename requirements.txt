@@ -1,0 +1,7 @@
+# make_index.py の依存パッケージ
+faiss-cpu
+sentence-transformers
+numpy
+huggingface_hub
+
+# chunker.py は標準ライブラリのみのため追加パッケージなし
